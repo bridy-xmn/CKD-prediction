@@ -1,4 +1,5 @@
 # CKD-prediction
+🌐 **Live Demo**: https://ckd-prediction-bridy.streamlit.app/
 # 🩺 만성신장질환(CKD) 예측 시스템
 
 ## 프로젝트 개요
