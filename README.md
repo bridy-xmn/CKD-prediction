@@ -76,3 +76,10 @@ CKD-prediction/
 ├── CKD_app.py                      # Streamlit 웹 애플리케이션
 └── chronic_kidney_disease.arff     # 데이터셋
 ```
+
+## Future Work
+
+- SHAP을 이용한 예측 근거 시각화
+- 다양한 머신러닝 모델 비교
+- 외부 검증 데이터셋을 활용한 성능 평가
+- 의료진 친화적인 UI 개선
